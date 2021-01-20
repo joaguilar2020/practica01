@@ -6,6 +6,10 @@ b- Centro
 c- Sur
 d- Caribe
 
-Este continente está rodeado por dos océanos
+Este continente está rodeado por cuatro océanos
 1- Pacífico
 2- Atlántico
+3- Indico
+4- Artico
+
+El indico va para la antártida, el ártico es el polo norte.
