@@ -6,11 +6,19 @@ b- Centro
 c- Sur
 d- Caribe
 
+<<<<<<< HEAD
 Estas divisiones son las que componen el continente Americano.
 Por eso todo el mundo nos conocen como americanos.
 El país más grande es Canadá, creo yo, pero también
 esta Brasil.
 
 Este continente está rodeado por dos océanos
+=======
+Este continente está rodeado por cuatro océanos
+>>>>>>> cabecera
 1- Pacífico
 2- Atlántico
+3- Indico
+4- Artico
+
+El indico va para la antártida, el ártico es el polo norte.

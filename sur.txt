@@ -1,4 +1,5 @@
 PAISES DE AMERICA DEL SUR 
+LLAMADO TAMBIEN SUDAMERICA
 
 Venezuela
 Colombia
@@ -8,7 +9,12 @@ Brasil
 Paraguay
 Bolivia
 Peru
-etc...
+etc... sigue
+Uruguay
+Chile
+Guyana Francesa
+Guyana Holandesa
+Suriname
 
 Al Final está el océano índico que va en dirección
 de la antártida.
